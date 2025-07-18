@@ -1,4 +1,4 @@
-## 📘 About This Repository
+## About This Repository
 
 This repository contains a variety of C programs written for learning, practice, and revision purposes. It covers:
 
